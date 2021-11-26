@@ -1,2 +1,1 @@
-# rcs-todo-oop-sample
-Lekcijas laikā izveidotais todo oop piemērs
+## OOP shhdq 26.11.2021
